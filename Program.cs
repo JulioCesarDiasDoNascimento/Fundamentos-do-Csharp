@@ -4,8 +4,6 @@
     {
         static void Main(string[] args)
         {
-           int? texto = null; 
-           Console.WriteLine(texto);
         }
     }
 }

@@ -88,5 +88,19 @@
 > * Ele é qualquer coisa (Não deve ser tão usado)
 
 ### Nullabel Types
-* null = vazio
+* null or void = vazio
+* void é para metodos
+* null para atributos
 
+* Podemos atribuir null a objetos
+* se for como null por padrão tem que ter a ? na frente do tipo!
+
+## Alias 
+* È apelido para tipos
+* Já que todos são classes (Já é o tipo wrappers do Java)
+* Muito facilitador
+
+#### Valores padrões
+![valores padrões.png](/Anotacoes/img/valores%20padrões.png)
+
+## Conversão:
