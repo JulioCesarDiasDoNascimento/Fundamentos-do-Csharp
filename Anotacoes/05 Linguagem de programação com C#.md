@@ -104,3 +104,22 @@
 ![valores padrões.png](/Anotacoes/img/valores%20padrões.png)
 
 ## Conversão:
+> **(Implicita)**
+* Tem que ser numero inteiro se encaixa em um numero real(Ponto flutuante)
+* O contrario não da certo
+* A implicita só ocorre quando 
+![conversao implicita.png](/Anotacoes/img/conversao%20implicita.png)
+![conversao implicita.png](/Anotacoes/img/conversao%20implicita%202.png)
+> **(Explicitas)**
+* Essa tem que informar o tipo que estamos convertendo
+* Fazer quando o tipo que queremos converter não pode ser feito de forma implicita
+* Exemplo int para float ou uint
+* Evitar um pouco usar
+* Sempre é melhor fazer de forma implicita kk
+
+#### Parse:
+* Tenta converter uma string para int 
+
+#### Convert
+* É uma classe
+* È da mesma forma do parse mas não é tao bom usar!
