@@ -123,3 +123,16 @@
 #### Convert
 * É uma classe
 * È da mesma forma do parse mas não é tao bom usar!
+
+### Operadores Aritimetricos
+![operadores.png](/Anotacoes/img/operadores.png)
+
+### Operadores de Atribuição
+![atribuicao.png](/Anotacoes/img/atribuicao.png)
+
+### Operadores de Comparação
+* Sempre vai retornar um booleano verdadeiro ou falso TRUE OR FALSE
+![comparacao.png](/Anotacoes/img/comparacao.png)
+
+### Operadores Logicos
+![operadores logicos.png](/Anotacoes/img/operadores%20logicos.png)
